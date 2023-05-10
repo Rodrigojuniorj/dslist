@@ -2,7 +2,6 @@ package com.rodrigodev.dslist.controllers;
 
 import com.rodrigodev.dslist.dto.GameDTO;
 import com.rodrigodev.dslist.dto.GameMinDTO;
-import com.rodrigodev.dslist.entities.Game;
 import com.rodrigodev.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
